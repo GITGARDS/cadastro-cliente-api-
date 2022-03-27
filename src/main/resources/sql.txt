@@ -1,0 +1,11 @@
+insert into cliente(nome, uf) values 
+('nome 1', 'GO'),
+('nome 2', 'PA'),
+('nome 3', 'PA'),
+('nome 4', 'PA'),
+('nome 5', 'ES'),
+('nome 6', 'ES'),
+('nome 7', 'ES'),
+('nome 8', 'TO'),
+('nome 9', 'PA'),
+('nome 10', 'PA');
